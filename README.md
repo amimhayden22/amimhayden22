@@ -1,4 +1,4 @@
-### Hi there 👋 , I'm Khamim
+### Hi there 👋 , I'm Gus Khamim
 Helo World!
 
 - 🌱 I’m currently learning Laravel, Bootstrap, and Tailwind CSS.
