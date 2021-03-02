@@ -3,8 +3,9 @@ Helo World!
 
 - 🌱 I’m currently learning Laravel, Bootstrap, and Tailwind CSS.
 <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=amimhayden22&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amimhayden22&layout=compact" height=180 />
+    <br>
+    <img src="https://github-readme-stats.vercel.app/api?username=amimhayden22&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" />
 </p>
 
 <!--
