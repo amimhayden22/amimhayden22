@@ -1,5 +1,5 @@
 ### Hi there 👋 , I'm Gus Khamim
-Helo World!
+Hello World!
 
 - 🌱 I’m currently learning Laravel, Bootstrap, and Tailwind CSS.
 <p>
