@@ -1,4 +1,4 @@
-## Hi 👋 , My name is Gus Khamim
+## Hi 👋 , My name is Gus Khamim!
 I am a web developer.
 
 🌱 I’m currently learning Laravel, Bootstrap, and Tailwind CSS.
