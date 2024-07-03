@@ -30,7 +30,7 @@
 
 ###
 
-<h1 align="center">Halo, Welcome to My Profile 👋</h1>
+<h1 align="center">Hello, Welcome to My Profile 👋</h1>
 
 ###
 
