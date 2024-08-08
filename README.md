@@ -4,6 +4,10 @@
 
 ###
 
+<h1 align="center">Hello, Welcome to My Profile 👋</h1>
+
+###
+
 <div align="center">
   <a href="https://discord.gg/nQNPuazA" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
@@ -27,10 +31,6 @@
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=amimhayden22.amimhayden22&"  />
 </div>
-
-###
-
-<h1 align="center">Hello, Welcome to My Profile 👋</h1>
 
 ###
 
