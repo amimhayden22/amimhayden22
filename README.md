@@ -1,6 +1,6 @@
-<div align="center">
+<!-- <div align="center">
   <img height="150" src="https://c4.wallpaperflare.com/wallpaper/151/765/303/bleach-hollow-ichigo-ichigo-kurosaki-wallpaper-preview.jpg"  />
-</div>
+</div> -->
 
 ###
 
@@ -94,12 +94,12 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<!-- <h3 align="left">🔥   My Stats :</h3> -->
 
 ###
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://streak-stats.demolab.com?user=amimhayden22&locale=en&mode=weekly&theme=dracula&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
+</div> -->
 
 ###
