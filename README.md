@@ -48,6 +48,8 @@
 
 [Explore My Work and Journey →](https://guskhamim.com)
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=amimhayden22&radius=16&hide_border=true&theme=tokyo-night&area=true&order=5" height="300" alt="activity-graph graph"  />
+
 <!-- <div align="left">
   <img src="https://cdn.simpleicons.org/apache/D22128" height="40" alt="apache logo"  />
   <img width="12" />
